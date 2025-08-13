@@ -1,4 +1,8 @@
-# Sorteo de Amigos 🎉
+# Challenge Amigo secreto
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dansware03/challenge-amigo-secreto_esp/main/assets/primer_desafio_one.webp" width="150" height="150" alt="Primer Desafio ONE">
+</p>
 
 Este proyecto es una pequeña aplicación en JavaScript que permite agregar nombres de amigos a una lista y realizar un sorteo aleatorio para elegir uno.
 
